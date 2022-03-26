@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Millet.Common", "Millet.Common\Millet.Common.csproj", "{62160F75-908D-462C-B0E7-C8F4E45FEEB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Millet", "Selenium.Millet\Selenium.Millet.csproj", "{A8F31690-EC09-4B73-BE8F-10DC94D24216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62160F75-908D-462C-B0E7-C8F4E45FEEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62160F75-908D-462C-B0E7-C8F4E45FEEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62160F75-908D-462C-B0E7-C8F4E45FEEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62160F75-908D-462C-B0E7-C8F4E45FEEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F31690-EC09-4B73-BE8F-10DC94D24216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F31690-EC09-4B73-BE8F-10DC94D24216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F31690-EC09-4B73-BE8F-10DC94D24216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F31690-EC09-4B73-BE8F-10DC94D24216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {776A623D-FB6A-46AA-A084-22D1A916C703}
+	EndGlobalSection
+EndGlobal
